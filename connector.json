@@ -424,9 +424,9 @@
   "repository": null,
   "visible": true,
   "validImages": [
-    "iconWithoutBackground",
-    "iconWithBackground",
     "logoWithBackground",
+    "iconWithBackground",
+    "iconWithoutBackground",
     "logoWithoutBackground"
   ]
 }

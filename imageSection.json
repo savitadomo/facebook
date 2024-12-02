@@ -7,9 +7,9 @@
   ],
   "authorName": "Domo, Inc. test111",
   "validImages": [
-    "iconWithoutBackground",
-    "iconWithBackground",
     "logoWithBackground",
+    "iconWithBackground",
+    "iconWithoutBackground",
     "logoWithoutBackground"
   ]
 }
